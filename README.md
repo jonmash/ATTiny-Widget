@@ -29,3 +29,10 @@ Other than that, the board is just a widget that can be used to add a little bit
 | U2 |      | ATTINY85_SOIC     | SOIC-8/209mil          | Atmel           | 1 |
 
 In total, this costs less than $7 per board for the components plus about $2.80 for the PCB itself. 
+
+## Order your own
+Order the PCB here:
+<a href="https://oshpark.com/shared_projects/rlTyPGgF"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
+
+Order your parts here:
+http://www.digikey.com/short/3bw5cn
