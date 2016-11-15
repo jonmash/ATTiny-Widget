@@ -5,7 +5,7 @@ Just a simple board that has two ATTiny processors powered by a micro USB connec
 
 This project was basically an experient in order to try out a new (to me) schematic capture and PCB designer tool called [DipTrace](http://diptrace.com/). Overall, I liked diptrace to make a tiny PCB like this. I would not consider this to be anywhere near equivalent to professional packages like Altium. 
 
-I also used this project as an excuse to purchase a solder paste stencil from [OSH Stencils](https://www.oshstencils.com/#) and to play with my new hot air repwork station from [Sparkfun]https://www.sparkfun.com/products/10706().
+I also used this project as an excuse to purchase a solder paste stencil from [OSH Stencils](https://www.oshstencils.com/#) and to play with my new [hot air repwork station from Sparkfun](https://www.sparkfun.com/products/10706).
 
 ## Details
 <a href="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/schematic.png"><img src="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/schematic.png" width="400"></a>
