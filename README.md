@@ -1,14 +1,14 @@
 # ATTiny-Widget
 Just a simple board that has two ATTiny processors powered by a micro USB connector. The rest is up to you!
 
-![Picture of populated PCB](https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/2016-11-12 22.18.42.jpg)
+<a href="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/2016-11-12 22.18.42.jpg"><img src="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/2016-11-12 22.18.42.jpg" width="400"></a>
 
 This project was basically an experient in order to try out a new (to me) schematic capture and PCB designer tool called [DipTrace](http://diptrace.com/). Overall, I liked diptrace to make a tiny PCB like this. I would not consider this to be anywhere near equivalent to professional packages like Altium. 
 
 I also used this project as an excuse to purchase a solder paste stencil from [OSH Stencils](https://www.oshstencils.com/#) and to play with my new hot air repwork station from [Sparkfun]https://www.sparkfun.com/products/10706().
 
 ## Details
-![Schematic](https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/schematic.png)
+<a href="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/schematic.png"><img src="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/schematic.png" width="400"></a>
 
 Micro USB power input to two ATTiny MCU's. There are two different ATTinys on this board. An ATTiny84 and an ATTiny85. These MCUs are great because they can be used with no additional components. Infact, on this board, the only additonal components are some filter capacitors for the power rail and a header for the programmer interface.
 
