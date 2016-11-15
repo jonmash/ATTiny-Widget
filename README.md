@@ -14,7 +14,7 @@ Micro USB power input to two ATTiny MCU's. There are two different ATTinys on th
 
 Other than that, the board is just a widget that can be used to add a little bit of logic to anything. I have exposed an array of copper pads for every pin. This makes it easy to add LEDs or to wire to just about any sensor.
 
-<a href="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/pcb.png"><img src="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/pcb.png" width="600"></a>
+<a href="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/pcb.png"><img src="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/pcb.png" width="400"></a>
 
 ## BOM
 |Ref |Value | Name              | Pattern                | Manufacturer    | Quantity |
