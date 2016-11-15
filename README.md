@@ -8,9 +8,11 @@ This project was basically an experient in order to try out a new (to me) schema
 I also used this project as an excuse to purchase a solder paste stencil from [OSH Stencils](https://www.oshstencils.com/#) and to play with my new [hot air repwork station from Sparkfun](https://www.sparkfun.com/products/10706).
 
 ## Details
-<a href="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/schematic.png"><img src="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/schematic.png" width="400"></a>
+<a href="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/schematic.png"><img src="https://raw.githubusercontent.com/jonmash/ATTiny-Widget/Images/schematic.png" width="600"></a>
 
 Micro USB power input to two ATTiny MCU's. There are two different ATTinys on this board. An ATTiny84 and an ATTiny85. These MCUs are great because they can be used with no additional components. Infact, on this board, the only additonal components are some filter capacitors for the power rail and a header for the programmer interface.
+
+Other than that, the board is just a widget that can be used to add a little bit of logic to anything. I have exposed an array of copper pads for every pin. This makes it easy to add LEDs or to wire to just about any sensor.
 
 ## BOM
 |Ref |Value | Name              | Pattern                | Manufacturer    | Quantity |
