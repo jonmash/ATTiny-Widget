@@ -27,3 +27,5 @@ Other than that, the board is just a widget that can be used to add a little bit
 | J3 |      | 15910060          | HDR-2x3S/2.54x2.54/    | Molex           | 1 |
 | U1 |      | ATTINY84_SOIC     | SOIC-14/150mil         | Atmel           | 1 |
 | U2 |      | ATTINY85_SOIC     | SOIC-8/209mil          | Atmel           | 1 |
+
+In total, this costs less than $7 per board for the components plus about $2.80 for the PCB itself. 
